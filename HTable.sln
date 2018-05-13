@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27428.2015
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HTable", "HTable\HTable.csproj", "{52ADC1F7-2EEE-406D-816A-8DD0FCFF104B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HTableTest", "HTableTest\HTableTest.csproj", "{A6712812-A4A5-47C5-A278-8FEFBBC24421}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{52ADC1F7-2EEE-406D-816A-8DD0FCFF104B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{52ADC1F7-2EEE-406D-816A-8DD0FCFF104B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{52ADC1F7-2EEE-406D-816A-8DD0FCFF104B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{52ADC1F7-2EEE-406D-816A-8DD0FCFF104B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A6712812-A4A5-47C5-A278-8FEFBBC24421}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A6712812-A4A5-47C5-A278-8FEFBBC24421}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A6712812-A4A5-47C5-A278-8FEFBBC24421}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A6712812-A4A5-47C5-A278-8FEFBBC24421}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {83EDAC8F-2FA3-49E9-90E0-0317AB7327D1}
+	EndGlobalSection
+EndGlobal
